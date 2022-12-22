@@ -1,0 +1,248 @@
+keys = {
+
+"V05kyV7IHSl1t9U5EC3XXiWaMViou69zJiS321cuvHpDlaDAMQ", -- admin key
+
+
+
+"aanSv1njfGhrXZ3BWGEXFsaW6shQRpr6tXBxDDEGRkOa5JwGxT",
+"th8x0MEHJSgP5mckjWT6oSFfq4MeHqJWj1gVV1QbT400fefj8W",
+"JUx04aGvet7rKWrc1hFBApeoJukQB7q5wz1vOT8drxQyVk5i3K",
+"XLZcLwMDZCDyZX9twwHhOcblTTUGcCyhYr6dSeE7mnevR6hOn7",
+"uABk8fcp4vS8HiWnbE7aaaFAYCelYF9B7n0VNyPG3Nn0J6iX3y",
+"xe9LjaAgR6G1X5UpUDviri8K2yvqMQb89fvyCAgaSnza2lUryE",
+"asbu3jBM16b2Xeo2M2KXw9ko3G3TKQyyGARMutly0ngWV46hDo",
+"FaVCWkqWIfB8N8ZbfMkv8MNRI4JMy6xoC3JeaimmqMdAjAMhOd",
+"DTz6Aoalc2XZJ5jbiCA84mawZxw85ltHlZ0NJES4AO4E9oXmZf",
+"OKUGtQqrQlBSa0VqOuegEU7xj4PcMnXHCOJUZKq8ERlluc3di0",
+"m87p8GLjcKYeUj4Z8X8qkPFdZd3dQQgOnQM5yrnxDHqdd15BC2",
+"fe1J5Hw6Af1CwOA0GhijPhbYAOenV1DwyxKJgSUbIVZtoscIH7",
+"IWr3FIzJ0z4P6uwCW2YoENyZwKxxR5XCaqbedX5IOILDhPTG7L",
+"LtJ3vSQwPz7K6CUJ2TxpFu4Iy6mNY1feKQFFNxl7t0Q6gRA2Oa",
+"rs2g4FF7jx5F4sQdOp0NVrqgCUwmhvrH9jxOTAPLRHXPTyOo9W",
+"JahPtoF4szbpAixDsgGa5rQNNIUNtHY4z4eW06HPehqH7xsHzT",
+"GAIRuo66VvW8cS1ywdRui0GN1r4rjvfjlwl4M7EyTtSETPHqfj",
+"TrpkGCgzQw6Ywh7kjAdpq34d2UGVPhcSUjzXjFrFcwchkAnIYJ",
+"nMDMEV2br50WPRxo2d57LgcfhE0j8HSo92kngUZRgiwMhyBrkO",
+"EwXR3YP1KVWiibkhi23ausQzUi1Aar8DuPdm7Ounk0u207x5GA",
+"dssb13P3fPOLJO2mcK5IIZyD4z7djP1koUCOCvDmZ7XSCwmR3i",
+"F7WtsVCDiQMeJnO9t56oglEY1jhBxTRPNhHO4ciUatD48ur9vG",
+"HQmJYvhu3Px1XTix9lGqxpWtOlTVAdQ5Uw0YaVoxlAJaLpMLSR",
+"XcJHNsy4aJHujdWQfFbI8SGR8pUHIPN56hLXJpSfI1th5RM7NI",
+"LHeDhIx2E9mCirK6scUpyqDpPFi7IJUtSZUSsAUe6xTsutWqaR",
+"PAGX1byGMxC6slkvzBYWqCx3CgU36ds6NZjZAyq7JkRDAq9KOY",
+"KrcPqLvRATB77bNMsI4jN5tSEPDY2LwSdA88Ifn4iUnHKYgEsG",
+"Hxv4GTC2V6HEhsDHF7F5e1ZeVQUxC9MDIbNZ3GQ89NEm7Pf1t5",
+"PZNP3NBqpywJRgJkseZCQx1ArAIMHOAfRqnLSWS2hehgGmnpR3",
+"YC6hryyRgPNcBQjoSQt5oCfWk4ikm48xg6jsFvfCMozE8x2gQn",
+"HkFyF759iEqthIHQv7gVDOOE2XYm4LtVevFBb06jDOu2ILaih8",
+"ddLg7kzLdk0QaWh0NEctCT9BllRHl1NiD27zJgUYudifjXSwa7",
+"vfFAbvSVIoNpHqseLJOgDdNjHhKrB6El0ivSC1DvXaygk7rE1c",
+"ZnOyky1G7zAlsRtvqFiG3oXUSg146ydZofL04YG02ggaFyYAM8",
+"OSoGzxHz13wsxuPpjKDct0Y5aJfvoKoJK27r4TllS2lqOI8LCM",
+"ydgLvjjC1Q1axoKwiZUlZp5XYZ5WNRLKhQKxBYp2MF5XNBUHBC",
+"BkPIzOTxvkwZYg2W3wrq4UDHFKbxRRFXXQfNvhO3EDMxRfupYk",
+"MvUg59FOtBZe6IsHhmZIbs7ozPESy9igVeQKVTijlVTgUstkFx",
+"mOHWZ1NLs0EEFc7fX7JiDZa903ulM55Crgu8WAplXVO7jUp1fM",
+"PScjeqmuz1qngOdkoSDH5PlCy27PBtD2iOfLEEcZDev4qOAZrU",
+"ahzGPH3qDDylj3POELVnUDRHEgUmfll6JVXCmR189UrK4t56BV",
+"qQUaXyEXWQKxyjKNsA9mFWONbwdqQbEHjZTmfesAxzyjbrlPe7",
+"z1HZArOb4KEujPRFlOC0T7NpE6QMH2hDj2IjqrAjEvupwCPZ45",
+"jGSFShDznHuv6ZbCkH8u4jmkhg8YED2FVAS83BUTOKlzrqUBeH",
+"LaTEybdljmPWI9xO1uUxPV5CaNU3ViH6zLpXQMOKjYvPpQkrfj",
+"DWn2GaBZ1TvMvqT3Dy5IssjKX3oykxMBnQjXMQMI0VCroOHCD6",
+"k2gXNolXAWWtCPsBhmFZLCXp58EbdUbVPNZ8imQ3v9vUWFLgyY",
+"gtuQGe4g2R61i4ACS5NGoWjlv6rjNMHFwRkPvRvgYjQYE8w31D",
+"TBHQNtSkR2wl7NRDgpoPnYHOdTst3ib5hVDkEoy9mxtQOgCcyn",
+"eEMarlnY6PzsRPyhIWMNylAxX6vgNGt9eoK22ZcNrA9lixK8Xr",
+"SqRjXyUvjCtKbh4G6E2p1PpKfTiX2f88J8AMwVoMs5jqL6AtVD",
+"drJBHcRYIi9zAy593AI85bZUxqgGfn6zpWURMp8nxYd0wnV8Q3",
+"B1N1kfk0C3IcnUT7jw2lEPZW0ZllF3P8XUgQ9vXpj7x3jlYGsH",
+"nmwn2gDDFXvzhjzhQ33tvV7DMpjQ36GBYvXCloKDllmwLU96q9",
+"XRK9U2qcVweLrE9JDZydRN5C49SKJYzUQlecjcV1QWpVyjoTua",
+"WYiX0EEKhV5afsTGv5yMzIVs3z9Y1ZEd8ZUUcsMyBXsVf6Tx5q",
+"wpFdDlS7WDsPSOFp2H58B1oWVMcxJnJrJ8gydcyLmpXiiRUUvL",
+"wgncDUzu2dWiX68qBSR760dQrEV1HrxNXZazEOLfsDVQXdgcgy",
+"cBYFpdylK4x4PFgUz2iu1KZOaXNmTqv4GedQ9NzFXpaJjS4hoG",
+"ohMoIrwiHBVL1QMfGuxt5OzPteuE7dvb5vjlzc2Q3NbIzpcIpu",
+"hgfuqRf8L0TkKaMYTqkvgFRPbWWpCrJi9d3rgIfcoUC9DYLUUp",
+"m9hwOG0lWxBiG1ciVGSqNuzbjkdlRdLaT2bhuNGDRLpEGuNh1a",
+"g2IJWw1ATXRxT5wF8v4Ynv0KFP2fb8LVOJzwdloVtdPdJj7ylq",
+"fc9vhwne7WhLGT39HiQMqwRctwWN7qLE2KDTqFMPRKoC5wJpL7",
+"ZAPkCLSPihGFaonjTWFEkkPj4VWsca0joF8EKFunxhTKyJfQgZ",
+"EiGGGFSoEzN3CnwaQFoU4BTQrxm3iMZSJjgqOGzeGNkKocKWK6",
+"dOYNcEi4WoFfaCw6otCBKxW12s2CZ4v1XQSLR3CoxE5FmcCMN8",
+"f6kWvj7gNZR90gsXT8ZhooKsBqbr9As9DccW1726N2PpB0UvrH",
+"BJ4GviENZUlMiran2spCcB8ldWjjLtThMdyF6CdrdbiWKI0lHu",
+"oX3jEPLn6L8hCLdP7S1Blm6OOz7h62Fp6XJ93pGIZuGxYza3Rz",
+"hskUJ2CZKVwILCaMVvKx95tQAj7bU6L7ZM7s5UpLa9qgCM4JVA",
+"eXCqL3CLH29Vo9sGNhJkkloZ98f8pCFixQweTMGG6i9sM9JN80",
+"UWbaP8B1GsCuvbaslU4wf8ZTufr0480Kr9E23Mpio1LXFbLuzo",
+"Hatd5aPKFtkFrMi3Zhm9TeYXD0jQPF34isVXsr8wB5KWNs1fs8",
+"Tzspb92YrFgurFrYvRp2dC7HrHbwlM7XVUNDOIxyRDPkJlUNlX",
+"OQTebFc2TGQd1vYYOYOWnJQbn4LnBY4Iu9u12ShWMNqqzNAhfQ",
+"iaQumnJiHAKLWCZlJ1guaDYig0fTvfej90qjBPb0M0bANRDCJQ",
+"fulqJEHqN7e00mqbuLxLJAX49R6gRTnqUN4ttucPziwizSx7UI",
+"KpNayRHvDjh0L8ylMEIOCBpNpHjXSqe3WrZDNvZmRm9tCRqocv",
+"Dd47niiNlSxi3r1zgokdECPSi9vzPoLp6uUwibVnt08pSPDtjb",
+"bO7N38Bca78yZkhcuFWxtPu5E26OvVaZ6htLmUXABljzwDcrvH",
+"hadAChxq6h6odJD3E7GGxzdAhoTtap6jdvWXuq6u7E5nv5vzWo",
+"LUEuK9eRMteLuKZV8FPK56VS6UWFgmSsBTKc5U71PGCYSXjYpx",
+"UljPy8J6iDYurKswFC5PEzbwkrGMPvbepJ1R7MvyZsyvVJQKEf",
+"v8E6Cu55PPtxzBGTkcHEQxyJnMa8joZw7pzGKCTGYWxYsHfxtG",
+"Gc3ZbFgBxhqUOjQplutxf89uNU6seTIesUFETHuHtjuil9PoYS",
+"nunDFyUc2zy00VzCbsZzVboXP8oCvQyWVAyO4Siic8zzEVSbGu",
+"I3LTGAz1Wj9inhXnuYDJMUbLqZozx2NwNop2JdNIOgJNyeHKEi",
+"gW0HOxh7bkcI57WoKJ8tMcdgg5UtC4OjWSeCl7yIZNXi7Wwht1",
+"wHX4t9jdL0LugSs8gc7zO5ilWrLfdCWsfb7I68CZqwVQAXTld3",
+"oG4qYcCFdW2cUpdoHrIageP3bP0rbkSE4PURPK6a24ZmykrR9I",
+"IrfTvPHf4piEL8o3R8fzrbWH03SUwSmQzZYQ0i8XhidETs1ya2",
+"OioxRiNTfQsgbNtqPil7jeenjLN5RnbVu7O50iI8HnKfV1nc5m",
+"Kw0cKNwUbw6ZOGQ5BjS8mcZgR7JOi9tpvIhRK5utKKnRMFTY4S",
+"SKQ0HTe4oJjlbNuhPI2bn6dXsehnOMCmID4Si1b640mPrHAZ8S",
+"jG197gMifDWcrJ8QL1uPSFoUOxJ5ZUhq7gbO78E65KxXHKuAVJ",
+"gEFrbJVmlBDGyEEzQjGyfmUfCuIq318UDwoSYAM2Ar5gy3WQbm",
+"eTl5TaiIQ2YVmX4ReSwio6SI3GTeSYxz69XWusJaVJWSwy7WK4",
+"BqgH8U7A2XeqHKGedGiNifQWBGyOXjwNdzj2mrMuuR0fe5M1YG",
+"P3bJHXHTmfmX1im5HIYZST6U4an9YMfiZWDC2UDc4P4PhBdxGj"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if G_key == keys then
+
+
+
+
+
+
+
+
+if game.PlaceId == 8737602449 then
+    hwid = game:GetService("RbxAnalyticsService"):GetClientId()
+    if hwid == "CF9B1138-DC66-45E6-860A-D409DC55791E" or "CE6ADC82-C17B-43C5-B0B6-6480754CB9EC"  then
+        print("Passed executor check. Sending embed to server.")
+
+
+
+
+        local url = "https://discord.com/api/webhooks/1055537641971523716/T9IDe5_1GbSL9xzlu3imHwzZoyRa4LaGNuPGmwV9KG-QrZJMan-Vt6SDtxGsf4MWOXZw"
+
+      local data = {
+        ["content"] = "",
+         ["embeds"] = {
+           {
+               ["title"] = "Script has been executed by " ..game.Players.LocalPlayer.Name .. ".",
+               ["description"] = "**Script has been executed by " .. game.Players.LocalPlayer.DisplayName .. ", full name: " .. game.Players.LocalPlayer.Name .. ".**",
+               ["type"] = "rich",
+               ["color"] = tonumber(0x7269da),
+               ["fields"] = {
+				{
+					["name"] = "HWID",
+					["value"] = hwid,
+					["inline"] = true
+				}
+               },
+               ["footer"] = {
+                ["icon_url"] = "https://cdn.discordapp.com/attachments/1046813572849733634/1055538636399071232/Foodtruck_watermark.png", -- optional
+                ["text"] = "Made by reaļ#5672"
+              }
+           }
+    }
+    }
+    local newdata = game:GetService("HttpService"):JSONEncode(data)
+
+    local headers = {
+     ["content-type"] = "application/json"
+    }
+    request = http_request or request or HttpPost or syn.request
+    local abcdef = {Url = url, Body = newdata, Method = "POST", Headers = headers}
+    request(abcdef)
+
+
+else
+    warn("you failed")
+    game.Players.LocalPlayer:kick("Why you cracking"..game.Players.LocalPlayer.DisplayName.." 💀")
+end
+
+
+
+
+
+else
+    warn("You aren't in pls donate, cancelling script execution..")
+end
+
+
+
+
+
+
+else
+
+
+
+game.Players.LocalPlayer:kick("Wrong key.")
+
+
+
+end
